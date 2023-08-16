@@ -1,3 +1,3 @@
-module github.com/defloriooryn/belajar
+module github.com/defloriooryn/hello
 
 go 1.20
